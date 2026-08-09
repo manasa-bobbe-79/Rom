@@ -1,0 +1,33 @@
+================================================
+16 x 8 ROM SIMULATION RESULTS
+================================================
+
+Address    Expected    Actual    Result
+----------------------------------------
+0          A5          A5        PASS
+1          3C          3C        PASS
+2          7E          7E        PASS
+3          19          19        PASS
+4          D2          D2        PASS
+5          4B          4B        PASS
+6          F0          F0        PASS
+7          86          86        PASS
+8          25          25        PASS
+9          B7          B7        PASS
+A          5D          5D        PASS
+B          E1          E1        PASS
+C          38          38        PASS
+D          92          92        PASS
+E          6F          6F        PASS
+F          CA          CA        PASS
+
+================================================
+FINAL RESULT
+================================================
+
+ALL TEST CASES PASSED
+
+Total Test Cases: 16
+Failed Test Cases: 0
+
+================================================
